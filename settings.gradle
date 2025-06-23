@@ -1,0 +1,3 @@
+
+rootProject.name = "StudioC1"
+include ':app'
